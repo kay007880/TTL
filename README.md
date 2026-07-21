@@ -4,8 +4,8 @@ Currently, I am at the TTL program by the The Knowledge House.
 
 **These are three repositories that I found interesting**
 1. Persona3-website by **blairxu13**
-[^1]: I found interesting this website because it combines the vibes of the videogame persona and a normal website.
-2. Aseprite by **Aseprite**
-[^2]: This software has allowed me to make my sprites for future games, which I think it is amazing and easy to use.
-3. Astropy by **Astropy**
-[^3]: Interesting way of mixing astronomy and coding.
+ (I found interesting this website because it combines the vibes of the videogame persona and a normal website.)
+3. Aseprite by **Aseprite**
+ (This software has allowed me to make my sprites for future games, which I think it is amazing and easy to use.)
+4. Astropy by **Astropy**
+ (Interesting way of mixing astronomy and coding.)
